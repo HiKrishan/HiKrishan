@@ -34,5 +34,6 @@
 ## 💬 Find me
 
 <p align="center">
-  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-YOUR_HANDLE-5865F2?logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-thepanauti-5865F2?logo=discord&logoColor=white" alt="Discord: thepanauti"> </a>
 </p>
+
