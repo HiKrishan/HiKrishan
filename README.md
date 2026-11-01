@@ -4,15 +4,6 @@
 
 <p align="center"><em>Builds small worlds out of code.<br>Some are cozy. Some are not.<br>You'll find out which.</em></p>
 
-## 📊 Stats
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hikrishan&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Krishan's GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=hikrishan&theme=nightowl&radius=10" alt="hikrishan's Activity Graph" />
-</p>
-
 ## 🛠️ Stack
 
 <p align="center">
